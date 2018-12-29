@@ -33,6 +33,8 @@ public class Tabs {
 			 
 			      // Switch to old(Parent) tab.
 			      driver.switchTo().window(tabs2.get(0));
+			      
+			      //some changess
 			  
 
 	}
